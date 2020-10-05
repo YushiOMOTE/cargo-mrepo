@@ -2,6 +2,8 @@
 
 Cargo subcommand to help working on multi-repository projects.
 
+![](https://raw.githubusercontent.com/YushiOMOTE/cargo-mrepo/master/assets/pic.png)
+
 ## Simple
 
 ### Patch
